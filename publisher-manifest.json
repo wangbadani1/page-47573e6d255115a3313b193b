@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fdce8e35e9d3f7aa0c8a8ec0",
+  "owner": "wangbadani1",
+  "repo": "page-47573e6d255115a3313b193b",
+  "title": "云游加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "47573e6d255115a3313b193b",
+      "a": "云游加速",
+      "b": "2027官方最新地址导航",
+      "entity": "云游加速",
+      "brand": "云游加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ae1093625909bb3ec79abacf06ac1ecf8ef552e1fc928e070313ef7775495318",
+      "content": {
+        "primary_entity": "云游加速",
+        "keyword1": "云游加速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据你的设备类型选择对应客户端，配置订阅后即可连接节点。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "对比套餐流量与设备数，选好周期后按客户端文档导入订阅即可。",
+          "AI_CLOSING_TITLE": "选对套餐，连接稳定",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版与团队版加入 IPLC 专线与高带宽节点，适配跨境办公、流媒体与游戏加速场景。按年付可享更低月均成本，配置时根据设备数量与流量需求选择档位。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与计费周期三个角度快速判断适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合单人轻量使用，旗舰版 300GB 适合多设备日常，团队版 1000GB 适合小团队共享。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；按家中手机、电脑、平板总量选择档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省；基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用可选年付周期。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再按客户端指引完成订阅配置。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "云游加速提供多档订阅方案，覆盖 100GB 到 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版与团队版加入 IPLC 专线和原生流媒体解锁，适合跨境办公、影音与游戏场景。按年付可降低月均成本，按设备数量与流量需求选择即可。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付周期月均成本更低",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。按流量与设备数选择档位即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，从基础版、旗舰版或团队版中确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端类型是否匹配。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅信息，完成节点连接与参数配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "云游加速套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月100GB流量，支持3台设备；旗舰版每月300GB，支持5台设备，适合多设备流媒体和游戏需求；团队版每月1000GB，支持20台设备，适合小型团队共享。",
+          "AI_FAQ_ANSWER_2": "在客户端中添加订阅链接后，客户端会拉取节点信息并自动更新。具体操作步骤请参考所用客户端的配置文档，不同系统的导入方式略有差异。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。设备数量按同时在线计算，切换设备时可先在原设备断开连接。",
+          "AI_FAQ_ANSWER_4": "可以，云游加速提供月付和年付两种计费周期。按年付通常比月付更划算，例如旗舰版月付35元，年付仅需350元。",
+          "AI_FAQ_ANSWER_5": "基础版包含普通线路节点池，旗舰版增加IPLC专线节点并优化游戏加速，团队版提供VIP专属高带宽节点，可按需选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "如何在客户端中导入订阅链接？",
+          "AI_FAQ_QUESTION_3": "同一账号可以在多少台设备上使用？",
+          "AI_FAQ_QUESTION_4": "支持按月付费还是按年付费？",
+          "AI_FAQ_QUESTION_5": "高带宽节点和普通线路节点有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "emyjkd.cn",
+    "host": "emyjkd.cn"
+  },
+  "file_hashes": {
+    "index.html": "18e92f51a79ab110619fccd3cba76122164ebfad0b992feb0382347476579934",
+    "sitemap.xml": "dc8fb1d7b6ac777daae01c455215c852b294c5fb4a3c585964e86853df2ef959",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6532a72aaed578fff69c4f8365c2309e7d551d9a17e41dbd168f362b5ad2cc39",
+    "robots.txt": "b1989fb897104044e0f2f4c309cc24685d363db778824bef7a7ecc51d695739a",
+    "d1118f75e077da76797e1f3563b29061.txt": "082e8e64a6ad17a0ee84fafc895d98e1c549537e7b1ac2bec9a675dd22c6c706"
+  },
+  "revision": "ccf5281e561cb29cc872fe7664f3cc7bb8be6a9091e9e617e8a05486146f5b1d"
+}
